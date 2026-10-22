@@ -1,0 +1,725 @@
+observed_date,product,unit,variety,grade,channel,location,region,price,currency,source,scraped_at
+2026-10-08,Amaranth,Kg,,,farmgate,Karenge,RWAMAGANA,300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403235+00:00
+2026-10-08,Apple,Kg,,,farmgate,Mukamira,NYABIHU,3000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403527+00:00
+2026-10-08,Apple,Kg,,,farmgate,Kibuye,KARONGI,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402775+00:00
+2026-10-08,Avocado,Kg,,,farmgate,Karenge,RWAMAGANA,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403292+00:00
+2026-10-08,Avocado,Kg,,,farmgate,Nyakarambi,KIREHE,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402348+00:00
+2026-10-08,Avocado,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402745+00:00
+2026-10-08,Banana,Kg,,,farmgate,Kibuye,KARONGI,470.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402153+00:00
+2026-10-08,Banana,Kg,,,farmgate,Nyakarambi,KIREHE,250.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402389+00:00
+2026-10-08,Banana,Kg,,,farmgate,Mukamira,NYABIHU,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403649+00:00
+2026-10-08,Bean - Mushingiriro,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402932+00:00
+2026-10-08,Bean - Mushingiriro,Kg,,,farmgate,Nyakarambi,KIREHE,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402379+00:00
+2026-10-08,Bean Ibinyarwanda,Kg,,,farmgate,Karenge,RWAMAGANA,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402824+00:00
+2026-10-08,Bean Ibinyarwanda,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402942+00:00
+2026-10-08,Bean Kiryumukwe,Kg,,,farmgate,Karenge,RWAMAGANA,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402814+00:00
+2026-10-08,Bean Shyushya,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402951+00:00
+2026-10-08,Bean Shyushya,Kg,,,farmgate,Karenge,RWAMAGANA,1400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402833+00:00
+2026-10-08,Beans/Mutiki,Kg,,,farmgate,Karenge,RWAMAGANA,1400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402843+00:00
+2026-10-08,Beef/ imvange,Kg,,,farmgate,Mukamira,NYABIHU,5000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403499+00:00
+2026-10-08,Beef/ imvange,Kg,,,farmgate,Kibuye,KARONGI,7000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402568+00:00
+2026-10-08,Beef/ imvange,Kg,,,farmgate,Nyakarambi,KIREHE,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402499+00:00
+2026-10-08,Beef/ imvange,Kg,,,farmgate,Karenge,RWAMAGANA,6500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402317+00:00
+2026-10-08,Beef/Iroti,Kg,,,farmgate,Karenge,RWAMAGANA,8000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402328+00:00
+2026-10-08,Beef/Iroti,Kg,,,farmgate,Nyakarambi,KIREHE,7000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402509+00:00
+2026-10-08,Beef/Iroti,Kg,,,farmgate,Kibuye,KARONGI,8000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402578+00:00
+2026-10-08,Beef/Iroti,Kg,,,farmgate,Mukamira,NYABIHU,7000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403513+00:00
+2026-10-08,Betterave,Kg,,,farmgate,Karenge,RWAMAGANA,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402922+00:00
+2026-10-08,Cabbage,Kg,,,farmgate,Bugarama,RUSIZI,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402110+00:00
+2026-10-08,Cabbage,Kg,,,farmgate,Kibuye,KARONGI,200.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402656+00:00
+2026-10-08,Carrot,Kg,,,farmgate,Nyakarambi,KIREHE,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402419+00:00
+2026-10-08,Carrot,Kg,,,farmgate,Mukamira,NYABIHU,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403553+00:00
+2026-10-08,Carrot,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402706+00:00
+2026-10-08,Carrot,Kg,,,farmgate,Karenge,RWAMAGANA,1200.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403757+00:00
+2026-10-08,Cassava,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402132+00:00
+2026-10-08,Cassava leaves,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402646+00:00
+2026-10-08,Cassava leaves,Kg,,,farmgate,Mukamira,NYABIHU,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403581+00:00
+2026-10-08,Cassava leaves,Kg,,,farmgate,Karenge,RWAMAGANA,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402911+00:00
+2026-10-08,Cassava-flour,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403046+00:00
+2026-10-08,Cassava-flour,Kg,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402529+00:00
+2026-10-08,Cassava-flour,Kg,,,farmgate,Bugarama,RUSIZI,533.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402057+00:00
+2026-10-08,Celery,Kg,,,farmgate,Karenge,RWAMAGANA,850.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403249+00:00
+2026-10-08,Charcoal,Sack,,,farmgate,Kibuye,KARONGI,11000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402226+00:00
+2026-10-08,Charcoal,Sack,,,farmgate,Karenge,RWAMAGANA,15500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402864+00:00
+2026-10-08,Chilli,Kg,,,farmgate,Mukamira,NYABIHU,4500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403401+00:00
+2026-10-08,Chilli,Kg,,,farmgate,Karenge,RWAMAGANA,3800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403375+00:00
+2026-10-08,Courgette,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402206+00:00
+2026-10-08,Cucumber,Kg,,,farmgate,Karenge,RWAMAGANA,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403204+00:00
+2026-10-08,DAP,Kg,,,farmgate,Karenge,RWAMAGANA,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403771+00:00
+2026-10-08,Ditane,Kg,,,farmgate,Karenge,RWAMAGANA,6500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403785+00:00
+2026-10-08,Egg - irinyaRWANDA,Piece,,,farmgate,Karenge,RWAMAGANA,200.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402287+00:00
+2026-10-08,Egg - irinyaRWANDA,Piece,,,farmgate,Mukamira,NYABIHU,250.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403676+00:00
+2026-10-08,Egg - irinyaRWANDA,Piece,,,farmgate,Kibuye,KARONGI,210.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403022+00:00
+2026-10-08,Egg- Pondese,Piece,,,farmgate,Rushashi,GAKENKE,153.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402891+00:00
+2026-10-08,Egg- Pondese,Piece,,,farmgate,Kibuye,KARONGI,160.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403010+00:00
+2026-10-08,Egg- Pondese,Piece,,,farmgate,Karenge,RWAMAGANA,170.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402277+00:00
+2026-10-08,Egg- Pondese,Piece,,,farmgate,Mukamira,NYABIHU,170.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403662+00:00
+2026-10-08,Eggplant,Kg,,,farmgate,Karenge,RWAMAGANA,700.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402901+00:00
+2026-10-08,Fish - Indagara- umunyu,Kg,,,farmgate,Kibuye,KARONGI,4000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402618+00:00
+2026-10-08,Fish - Indagara- umunyu,Kg,,,farmgate,Karenge,RWAMAGANA,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402785+00:00
+2026-10-08,Fish - Tilapia,Kg,,,farmgate,Kibuye,KARONGI,5000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402598+00:00
+2026-10-08,Fish - Tilapia,Kg,,,farmgate,Nyakarambi,KIREHE,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402479+00:00
+2026-10-08,Fish - isambaza,Kg,,,farmgate,Kibuye,KARONGI,4000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402608+00:00
+2026-10-08,Garlic,Kg,,,farmgate,Mukamira,NYABIHU,1800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403472+00:00
+2026-10-08,Garlic,Kg,,,farmgate,Karenge,RWAMAGANA,1750.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403334+00:00
+2026-10-08,Green bean,Kg,,,farmgate,Nyakarambi,KIREHE,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402399+00:00
+2026-10-08,Green bean,Kg,,,farmgate,Karenge,RWAMAGANA,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403220+00:00
+2026-10-08,Green bean,Kg,,,farmgate,Kibuye,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402628+00:00
+2026-10-08,Groundnut,Kg,,,farmgate,Mukamira,NYABIHU,2000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403444+00:00
+2026-10-08,Groundnut,Kg,,,farmgate,Kibuye,KARONGI,2100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402981+00:00
+2026-10-08,Honey,Kg,,,farmgate,Karenge,RWAMAGANA,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402795+00:00
+2026-10-08,Honey,Kg,,,farmgate,Mukamira,NYABIHU,6500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403458+00:00
+2026-10-08,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402164+00:00
+2026-10-08,Irish potato - Kuruseke,Kg,,,farmgate,Karenge,RWAMAGANA,680.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402804+00:00
+2026-10-08,Irish potato - Kuruseke,Kg,,,farmgate,Kibuye,KARONGI,750.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402196+00:00
+2026-10-08,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402175+00:00
+2026-10-08,Irish-potato,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402185+00:00
+2026-10-08,Lemon,Kg,,,farmgate,Mukamira,NYABIHU,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403608+00:00
+2026-10-08,Lemon,Kg,,,farmgate,Karenge,RWAMAGANA,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403744+00:00
+2026-10-08,Lemon,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402715+00:00
+2026-10-08,Maize,Kg,,,farmgate,Nyakarambi,KIREHE,400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402359+00:00
+2026-10-08,Maize,Kg,,,farmgate,Kibuye,KARONGI,560.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402961+00:00
+2026-10-08,Maize,Kg,,,farmgate,Bugarama,RUSIZI,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402086+00:00
+2026-10-08,Maize Flour,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403109+00:00
+2026-10-08,Maize Flour,Kg,,,farmgate,Karenge,RWAMAGANA,1040.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402297+00:00
+2026-10-08,Maize Flour,Kg,,,farmgate,Nyakarambi,KIREHE,900.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402519+00:00
+2026-10-08,Mandarin,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402725+00:00
+2026-10-08,Meet - Inkoko - Pondezi,Kg,,,farmgate,Kibuye,KARONGI,5500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402588+00:00
+2026-10-08,Meet - Inkoko - Pondezi,Kg,,,farmgate,Karenge,RWAMAGANA,4000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402307+00:00
+2026-10-08,Meet - Inkoko - Pondezi,Kg,,,farmgate,Nyakarambi,KIREHE,6000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402489+00:00
+2026-10-08,Milk-fresh,Litre,,,farmgate,Mukamira,NYABIHU,350.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403263+00:00
+2026-10-08,NPK,Kg,,,farmgate,Mukamira,NYABIHU,807.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403540+00:00
+2026-10-08,Oil - ubuto,Bottle,,,farmgate,Kibuye,KARONGI,2800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403094+00:00
+2026-10-08,Oil - ubuto,Bottle,,,farmgate,Karenge,RWAMAGANA,2950.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402237+00:00
+2026-10-08,Oil - ubuto,Bottle,,,farmgate,Mukamira,NYABIHU,4200.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403731+00:00
+2026-10-08,Oil - ubuto,Bottle,,,farmgate,Nyakarambi,KIREHE,2800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402469+00:00
+2026-10-08,Onion-Red,Kg,,,farmgate,Karenge,RWAMAGANA,700.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403798+00:00
+2026-10-08,Onion-Red,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402686+00:00
+2026-10-08,Orange,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402735+00:00
+2026-10-08,Orange,Kg,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402439+00:00
+2026-10-08,Papaya,Kg,,,farmgate,Karenge,RWAMAGANA,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403306+00:00
+2026-10-08,Passion-fruit,Kg,,,farmgate,Kibuye,KARONGI,1900.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402764+00:00
+2026-10-08,Passion-fruit,Kg,,,farmgate,Nyakarambi,KIREHE,2500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402449+00:00
+2026-10-08,Passion-fruit,Kg,,,farmgate,Bugarama,RUSIZI,2700.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402099+00:00
+2026-10-08,Passion-fruit,Kg,,,farmgate,Mukamira,NYABIHU,2200.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403703+00:00
+2026-10-08,Pineapple,Kg,,,farmgate,Kibuye,KARONGI,300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402216+00:00
+2026-10-08,Pineapple,Kg,,,farmgate,Karenge,RWAMAGANA,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403717+00:00
+2026-10-08,Pineapple,Kg,,,farmgate,Mukamira,NYABIHU,400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403622+00:00
+2026-10-08,Plum,Kg,,,farmgate,Kibuye,KARONGI,1400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402754+00:00
+2026-10-08,Plum,Kg,,,farmgate,Karenge,RWAMAGANA,1400.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403320+00:00
+2026-10-08,Plum,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402459+00:00
+2026-10-08,Rice - Rw - Nyiraburyohe,Kg,,,farmgate,Kibuye,KARONGI,1150.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403177+00:00
+2026-10-08,Rice - TZ - No 2,Kg,,,farmgate,Kibuye,KARONGI,1360.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403150+00:00
+2026-10-08,Rice - TZ - No 2,Kg,,,farmgate,Nyakarambi,KIREHE,1150.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402559+00:00
+2026-10-08,Rice - TZ - No 2,Kg,,,farmgate,Karenge,RWAMAGANA,1650.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402267+00:00
+2026-10-08,Rice -Rw - Kigori,Kg,,,farmgate,Nyakarambi,KIREHE,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402549+00:00
+2026-10-08,Rice Pakistan,Kg,,,farmgate,Kibuye,KARONGI,1140.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403123+00:00
+2026-10-08,Rice-Rw,Kg,,,farmgate,Karenge,RWAMAGANA,1080.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403825+00:00
+2026-10-08,Rice-Rw,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403164+00:00
+2026-10-08,Rice-Rw,Kg,,,farmgate,Mukamira,NYABIHU,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403430+00:00
+2026-10-08,Rice-Tz,Kg,,,farmgate,Mukamira,NYABIHU,1600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403416+00:00
+2026-10-08,Rice-Tz,Kg,,,farmgate,Kibuye,KARONGI,1750.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403137+00:00
+2026-10-08,Sorghum,Kg,,,farmgate,Nyakarambi,KIREHE,750.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402338+00:00
+2026-10-08,Sorghum,Kg,,,farmgate,Bugarama,RUSIZI,700.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402121+00:00
+2026-10-08,Sorghum,Kg,,,farmgate,Kibuye,KARONGI,680.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402971+00:00
+2026-10-08,Sorghum,Kg,,,farmgate,Mukamira,NYABIHU,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403690+00:00
+2026-10-08,Sorghum flour,Kg,,,farmgate,Kibuye,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403066+00:00
+2026-10-08,Sorghum flour,Kg,,,farmgate,Karenge,RWAMAGANA,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402853+00:00
+2026-10-08,Soya-Bean,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403000+00:00
+2026-10-08,Soya-Bean,Kg,,,farmgate,Mukamira,NYABIHU,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403485+00:00
+2026-10-08,Soya-Bean,Kg,,,farmgate,Karenge,RWAMAGANA,1250.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403838+00:00
+2026-10-08,Sugar,Kg,,,farmgate,Mukamira,NYABIHU,1300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403568+00:00
+2026-10-08,Sugar,Kg,,,farmgate,Kibuye,KARONGI,1340.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403080+00:00
+2026-10-08,Sugar,Kg,,,farmgate,Karenge,RWAMAGANA,1350.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402247+00:00
+2026-10-08,Sweet pepper,Kg,,,farmgate,Karenge,RWAMAGANA,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403347+00:00
+2026-10-08,Sweet pepper,Kg,,,farmgate,Nyakarambi,KIREHE,1600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402429+00:00
+2026-10-08,Sweet pepper,Kg,,,farmgate,Kibuye,KARONGI,2600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402676+00:00
+2026-10-08,Sweet-Potatoes,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402143+00:00
+2026-10-08,Sweet-Potatoes,Kg,,,farmgate,Nyakarambi,KIREHE,300.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402369+00:00
+2026-10-08,Taro,Kg,,,farmgate,Karenge,RWAMAGANA,380.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402257+00:00
+2026-10-08,Tomatos,Kg,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402409+00:00
+2026-10-08,Tomatos,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402666+00:00
+2026-10-08,Tomatos,Kg,,,farmgate,Mukamira,NYABIHU,800.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403191+00:00
+2026-10-08,Uree,Kg,,,farmgate,Karenge,RWAMAGANA,960.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403812+00:00
+2026-10-08,Uree,Kg,,,farmgate,Mukamira,NYABIHU,890.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403389+00:00
+2026-10-08,Wheat,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402539+00:00
+2026-10-08,Wheat,Kg,,,farmgate,Mukamira,NYABIHU,850.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403594+00:00
+2026-10-08,Wheat,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402990+00:00
+2026-10-08,Wheat-Flour,Kg,,,farmgate,Mukamira,NYABIHU,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403361+00:00
+2026-10-08,White onion,Kg,,,farmgate,Karenge,RWAMAGANA,1700.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.403277+00:00
+2026-10-08,White onion,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-09T06:08:56.402696+00:00
+2026-10-07,Amaranth,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434113+00:00
+2026-10-07,Apple,Kg,,,farmgate,Kibuye,KARONGI,6000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433803+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Mulindi,GASABO,700.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432834+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434141+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433794+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Muhondo,GAKENKE,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433617+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Kirambo,BURERA,433.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435487+00:00
+2026-10-07,Avocado,Kg,,,farmgate,Bushenge,NYAMASHEKE,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436030+00:00
+2026-10-07,Banan-fruit,Kg,,,farmgate,Nyagahinga,BURERA,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434299+00:00
+2026-10-07,Banan-fruit,Kg,,,farmgate,Kirambo,BURERA,433.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435477+00:00
+2026-10-07,Banana,Kg,,,farmgate,Nyagahinga,BURERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434815+00:00
+2026-10-07,Banana,Kg,,,farmgate,Nyamata,BUGESERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435697+00:00
+2026-10-07,Banana,Kg,,,farmgate,Muhondo,GAKENKE,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433577+00:00
+2026-10-07,Banana,Kg,,,farmgate,Kibuye,KARONGI,470.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433294+00:00
+2026-10-07,Banana,Kg,,,farmgate,Mulindi,GASABO,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433129+00:00
+2026-10-07,Bean - Mugeri,Kg,,,farmgate,Nyamata,BUGESERA,1350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435605+00:00
+2026-10-07,Bean - Mushingiriro,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434434+00:00
+2026-10-07,Bean - Mushingiriro,Kg,,,farmgate,Muhondo,GAKENKE,1400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433416+00:00
+2026-10-07,Bean - Mushingiriro,Kg,,,farmgate,Nyagahinga,BURERA,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434376+00:00
+2026-10-07,Bean - Mushingiriro,Kg,,,farmgate,Kirambo,BURERA,1150.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435330+00:00
+2026-10-07,Bean - Mushingiriro,Kg,,,farmgate,Bushenge,NYAMASHEKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435939+00:00
+2026-10-07,Bean Colta,Kg,,,farmgate,Nyamata,BUGESERA,1350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435621+00:00
+2026-10-07,Bean Colta,Kg,,,farmgate,Mulindi,GASABO,1400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432950+00:00
+2026-10-07,Bean Ibinyarwanda,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433455+00:00
+2026-10-07,Bean Ibinyarwanda,Kg,,,farmgate,Bushenge,NYAMASHEKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435975+00:00
+2026-10-07,Bean Ibinyarwanda,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434443+00:00
+2026-10-07,Bean Ibinyarwanda,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432978+00:00
+2026-10-07,Bean Ibinyarwanda,Kg,,,farmgate,Nyagahinga,BURERA,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434385+00:00
+2026-10-07,Bean Kiryumukwe,Kg,,,farmgate,Muhondo,GAKENKE,1400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433425+00:00
+2026-10-07,Bean Kiryumukwe,Kg,,,farmgate,Nyamata,BUGESERA,1350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435595+00:00
+2026-10-07,Bean Kiryumukwe,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432999+00:00
+2026-10-07,Bean Kiryumukwe,Kg,,,farmgate,Bushenge,NYAMASHEKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435953+00:00
+2026-10-07,Bean Shyushya,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434453+00:00
+2026-10-07,Bean Shyushya,Kg,,,farmgate,Mulindi,GASABO,1200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433033+00:00
+2026-10-07,Bean Shyushya,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433445+00:00
+2026-10-07,Bean Shyushya,Kg,,,farmgate,Nyamata,BUGESERA,1250.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435576+00:00
+2026-10-07,Bean Shyushya,Kg,,,farmgate,Bushenge,NYAMASHEKE,1200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435990+00:00
+2026-10-07,Beans/Mutiki,Kg,,,farmgate,Muhondo,GAKENKE,1400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433435+00:00
+2026-10-07,Beans/Mutiki,Kg,,,farmgate,Bushenge,NYAMASHEKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435963+00:00
+2026-10-07,Beans/Mutiki,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433017+00:00
+2026-10-07,Beans/Mutiki,Kg,,,farmgate,Nyamata,BUGESERA,1400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435586+00:00
+2026-10-07,Beef/ imvange,Kg,,,farmgate,Muhondo,GAKENKE,6000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433647+00:00
+2026-10-07,Beef/ imvange,Kg,,,farmgate,Mulindi,GASABO,6500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433218+00:00
+2026-10-07,Beef/ imvange,Kg,,,farmgate,Kibuye,KARONGI,7000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433861+00:00
+2026-10-07,Beef/ imvange,Kg,,,farmgate,Bushenge,NYAMASHEKE,6500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435924+00:00
+2026-10-07,Beef/ imvange,Kg,,,farmgate,Kirambo,BURERA,5000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433726+00:00
+2026-10-07,Beef/Iroti,Kg,,,farmgate,Kibuye,KARONGI,8000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433918+00:00
+2026-10-07,Beef/Iroti,Kg,,,farmgate,Muhondo,GAKENKE,7000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433657+00:00
+2026-10-07,Beef/Iroti,Kg,,,farmgate,Kirambo,BURERA,5000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433716+00:00
+2026-10-07,Beef/Iroti,Kg,,,farmgate,Bushenge,NYAMASHEKE,7500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435909+00:00
+2026-10-07,Cabbage,Kg,,,farmgate,Bushenge,NYAMASHEKE,250.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436060+00:00
+2026-10-07,Cabbage,Kg,,,farmgate,Kibuye,KARONGI,200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433971+00:00
+2026-10-07,Carrot,Kg,,,farmgate,Mulindi,GASABO,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433243+00:00
+2026-10-07,Carrot,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434001+00:00
+2026-10-07,Carrot,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435388+00:00
+2026-10-07,Carrot,Kg,,,farmgate,Bushenge,NYAMASHEKE,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436046+00:00
+2026-10-07,Carrot,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434179+00:00
+2026-10-07,Cassava,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433145+00:00
+2026-10-07,Cassava,Kg,,,farmgate,Nyamata,BUGESERA,550.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435682+00:00
+2026-10-07,Cassava,Kg,,,farmgate,Muhondo,GAKENKE,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433568+00:00
+2026-10-07,Cassava,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433285+00:00
+2026-10-07,Cassava,Kg,,,farmgate,Bushenge,NYAMASHEKE,350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436076+00:00
+2026-10-07,Cassava leaves,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433939+00:00
+2026-10-07,Cassava leaves,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434102+00:00
+2026-10-07,Cassava leaves,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432812+00:00
+2026-10-07,Cassava-flour,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434220+00:00
+2026-10-07,Cassava-flour,Kg,,,farmgate,Bushenge,NYAMASHEKE,550.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436106+00:00
+2026-10-07,Cassava-flour,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434544+00:00
+2026-10-07,Charcoal,Sack,,,farmgate,Kibuye,KARONGI,11000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433304+00:00
+2026-10-07,Charcoal,Sack,,,farmgate,Kirambo,BURERA,8333.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434051+00:00
+2026-10-07,Charcoal,Sack,,,farmgate,Nyagahinga,BURERA,14000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434660+00:00
+2026-10-07,Courgette,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434414+00:00
+2026-10-07,Courgette,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433315+00:00
+2026-10-07,DAP,Kg,,,farmgate,Kirambo,BURERA,980.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435547+00:00
+2026-10-07,Ditane,Kg,,,farmgate,Kirambo,BURERA,7920.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435557+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Kibuye,KARONGI,210.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434534+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Mulindi,GASABO,170.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433099+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Bushenge,NYAMASHEKE,200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435893+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Muhondo,GAKENKE,200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433537+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Nyagahinga,BURERA,180.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434366+00:00
+2026-10-07,Egg - irinyaRWANDA,Piece,,,farmgate,Kirambo,BURERA,157.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434071+00:00
+2026-10-07,Egg- Pondese,Piece,,,farmgate,Kibuye,KARONGI,160.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434525+00:00
+2026-10-07,Egg- Pondese,Piece,,,farmgate,Muhondo,GAKENKE,150.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433607+00:00
+2026-10-07,Egg- Pondese,Piece,,,farmgate,Mulindi,GASABO,120.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433115+00:00
+2026-10-07,Egg- Pondese,Piece,,,farmgate,Kirambo,BURERA,157.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434061+00:00
+2026-10-07,Egg- Pondese,Piece,,,farmgate,Nyagahinga,BURERA,180.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434356+00:00
+2026-10-07,Fish - Indagara- umunyu,Kg,,,farmgate,Kibuye,KARONGI,4000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433832+00:00
+2026-10-07,Fish - Tilapia,Kg,,,farmgate,Kibuye,KARONGI,5000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433813+00:00
+2026-10-07,Fish - Tilapia,Kg,,,farmgate,Nyamata,BUGESERA,4500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435791+00:00
+2026-10-07,Fish - Tilapia,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433065+00:00
+2026-10-07,Fish - Tomson,Kg,,,farmgate,Mulindi,GASABO,3500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433082+00:00
+2026-10-07,Fish - isambaza,Kg,,,farmgate,Kibuye,KARONGI,3000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433822+00:00
+2026-10-07,Fresh peas,Kg,,,farmgate,Nyamata,BUGESERA,3100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435765+00:00
+2026-10-07,Goat meat,Kg,,,farmgate,Nyagahinga,BURERA,7000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434680+00:00
+2026-10-07,Goat meat,Kg,,,farmgate,Muhondo,GAKENKE,7000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433667+00:00
+2026-10-07,Green bean,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433955+00:00
+2026-10-07,Groundnut,Kg,,,farmgate,Kibuye,KARONGI,2100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434462+00:00
+2026-10-07,Honey,Kg,,,farmgate,Nyagahinga,BURERA,7000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434802+00:00
+2026-10-07,Honey,Kg,,,farmgate,Bushenge,NYAMASHEKE,6500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436018+00:00
+2026-10-07,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Nyagahinga,BURERA,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434308+00:00
+2026-10-07,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432937+00:00
+2026-10-07,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433325+00:00
+2026-10-07,Irish potato - Kuruseke,Kg,,,farmgate,Muhondo,GAKENKE,750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433557+00:00
+2026-10-07,Irish- Potato - Peko,Kg,,,farmgate,Kirambo,BURERA,650.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434641+00:00
+2026-10-07,Irish- Potato- Kirundo,Kg,,,farmgate,Mulindi,GASABO,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432917+00:00
+2026-10-07,Irish- Potato- Kirundo,Kg,,,farmgate,Muhondo,GAKENKE,750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433547+00:00
+2026-10-07,Irish- Potato- Kirundo,Kg,,,farmgate,Bushenge,NYAMASHEKE,760.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435822+00:00
+2026-10-07,Irish- Potato- Kuruza,Kg,,,farmgate,Kibuye,KARONGI,750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433355+00:00
+2026-10-07,Irish- Potato- Kuruza,Kg,,,farmgate,Bushenge,NYAMASHEKE,760.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435837+00:00
+2026-10-07,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433335+00:00
+2026-10-07,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Mulindi,GASABO,1200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432927+00:00
+2026-10-07,Irish-potato,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433345+00:00
+2026-10-07,Layer Grow Mash,Kg,,,farmgate,Nyagahinga,BURERA,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434269+00:00
+2026-10-07,Layer Starter Mash,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432799+00:00
+2026-10-07,Lemon,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435437+00:00
+2026-10-07,Lemon,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434170+00:00
+2026-10-07,Lemon,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433774+00:00
+2026-10-07,MINIMEX,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435377+00:00
+2026-10-07,Maize,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432845+00:00
+2026-10-07,Maize,Kg,,,farmgate,Kibuye,KARONGI,560.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434481+00:00
+2026-10-07,Maize,Kg,,,farmgate,Kirambo,BURERA,433.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435502+00:00
+2026-10-07,Maize,Kg,,,farmgate,Nyagahinga,BURERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434259+00:00
+2026-10-07,Maize Bran,Kg,,,farmgate,Nyagahinga,BURERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434240+00:00
+2026-10-07,Maize Flour,Kg,,,farmgate,Kirambo,BURERA,1050.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435351+00:00
+2026-10-07,Maize Flour,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434563+00:00
+2026-10-07,Maize Flour,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433182+00:00
+2026-10-07,Maize-flour,Kg,,,farmgate,Nyagahinga,BURERA,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434289+00:00
+2026-10-07,Maize-flour-imported,Kg,,,farmgate,Bushenge,NYAMASHEKE,1180.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436004+00:00
+2026-10-07,Maize-flour-imported,Kg,,,farmgate,Nyagahinga,BURERA,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434395+00:00
+2026-10-07,Mandarin,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433765+00:00
+2026-10-07,Mango,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433754+00:00
+2026-10-07,Mango,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434122+00:00
+2026-10-07,Meet - Inkoko - Pondezi,Kg,,,farmgate,Mulindi,GASABO,4000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433204+00:00
+2026-10-07,Meet - Inkoko - Pondezi,Kg,,,farmgate,Kibuye,KARONGI,5500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433842+00:00
+2026-10-07,Meet - Inkoko - Pondezi,Kg,,,farmgate,Muhondo,GAKENKE,5000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433627+00:00
+2026-10-07,Meet - inkoko - rwanda,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433193+00:00
+2026-10-07,Meet - inkoko - rwanda,Kg,,,farmgate,Muhondo,GAKENKE,6000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433637+00:00
+2026-10-07,Milk-fresh,Litre,,,farmgate,Nyagahinga,BURERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434250+00:00
+2026-10-07,Milk-fresh,Litre,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433171+00:00
+2026-10-07,Milk-fresh,Litre,,,farmgate,Muhondo,GAKENKE,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433587+00:00
+2026-10-07,NPK,Kg,,,farmgate,Kirambo,BURERA,974.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435517+00:00
+2026-10-07,Oil - ubuto,Bottle,,,farmgate,Nyagahinga,BURERA,2800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434318+00:00
+2026-10-07,Oil - ubuto,Bottle,,,farmgate,Muhondo,GAKENKE,2800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433516+00:00
+2026-10-07,Oil - ubuto,Bottle,,,farmgate,Kirambo,BURERA,3750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433705+00:00
+2026-10-07,Onion-Red,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434011+00:00
+2026-10-07,Onion-Red,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434189+00:00
+2026-10-07,Onion-Red,Kg,,,farmgate,Mulindi,GASABO,900.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433048+00:00
+2026-10-07,Onion-Red,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435399+00:00
+2026-10-07,Orange,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433784+00:00
+2026-10-07,Palm-oil,Litre,,,farmgate,Kirambo,BURERA,3750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433695+00:00
+2026-10-07,Palm-oil,Litre,,,farmgate,Muhondo,GAKENKE,3000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433504+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Nyagahinga,BURERA,1800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434650+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Mulindi,GASABO,2400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432823+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Muhondo,GAKENKE,1800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433495+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Kibuye,KARONGI,1600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433735+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Nyamata,BUGESERA,2000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435708+00:00
+2026-10-07,Passion-fruit,Kg,,,farmgate,Kirambo,BURERA,1750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435468+00:00
+2026-10-07,Peas,Kg,,,farmgate,Nyagahinga,BURERA,1800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434869+00:00
+2026-10-07,Peas,Kg,,,farmgate,Kirambo,BURERA,1750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435457+00:00
+2026-10-07,Peas,Kg,,,farmgate,Muhondo,GAKENKE,2800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433527+00:00
+2026-10-07,Pig finisher feed,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432777+00:00
+2026-10-07,Pineapple,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434160+00:00
+2026-10-07,Pineapple,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434132+00:00
+2026-10-07,Plum,Kg,,,farmgate,Mulindi,GASABO,1600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432907+00:00
+2026-10-07,Plum,Kg,,,farmgate,Bushenge,NYAMASHEKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435806+00:00
+2026-10-07,Plum,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433745+00:00
+2026-10-07,Plum,Kg,,,farmgate,Kirambo,BURERA,1350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433686+00:00
+2026-10-07,Plum,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434151+00:00
+2026-10-07,Plum,Kg,,,farmgate,Nyamata,BUGESERA,1200.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435721+00:00
+2026-10-07,Plum,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433395+00:00
+2026-10-07,Porc meat,Kg,,,farmgate,Muhondo,GAKENKE,4000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433365+00:00
+2026-10-07,Porc meat,Kg,,,farmgate,Nyagahinga,BURERA,3000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434775+00:00
+2026-10-07,Pre-Layer mash,Kg,,,farmgate,Nyagahinga,BURERA,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434279+00:00
+2026-10-07,Rice - Rw - Gikonko,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433465+00:00
+2026-10-07,Rice - Rw - Luck rice,Kg,,,farmgate,Nyagahinga,BURERA,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434337+00:00
+2026-10-07,Rice - Rw - Luck rice,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433405+00:00
+2026-10-07,Rice - Rw - Nyiraburyohe,Kg,,,farmgate,Kibuye,KARONGI,1150.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434612+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Mulindi,GASABO,1500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433264+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433474+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Kibuye,KARONGI,1360.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434593+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Bushenge,NYAMASHEKE,1480.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435862+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Kirambo,BURERA,1550.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434041+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Nyagahinga,BURERA,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434346+00:00
+2026-10-07,Rice - TZ - No 2,Kg,,,farmgate,Nyamata,BUGESERA,950.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435776+00:00
+2026-10-07,Rice Pakistan,Kg,,,farmgate,Kibuye,KARONGI,1140.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434583+00:00
+2026-10-07,Rice Pakistan,Kg,,,farmgate,Muhondo,GAKENKE,1300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433385+00:00
+2026-10-07,Rice Pakistan,Kg,,,farmgate,Kirambo,BURERA,1350.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433676+00:00
+2026-10-07,Rice Thailand,Kg,,,farmgate,Muhondo,GAKENKE,1500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433375+00:00
+2026-10-07,Rice-Rw,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434621+00:00
+2026-10-07,Rice-Tz,Kg,,,farmgate,Kibuye,KARONGI,1750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434602+00:00
+2026-10-07,Rice-Tz,Kg,,,farmgate,Mulindi,GASABO,1800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433253+00:00
+2026-10-07,Rice-Tz,Kg,,,farmgate,Muhondo,GAKENKE,1800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433484+00:00
+2026-10-07,Rice-Tz,Kg,,,farmgate,Kirambo,BURERA,1750.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435447+00:00
+2026-10-07,Rice-Tz,Kg,,,farmgate,Nyamata,BUGESERA,1517.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435751+00:00
+2026-10-07,Sheep meat,Kg,,,farmgate,Nyagahinga,BURERA,5000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434670+00:00
+2026-10-07,Sorghum,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434230+00:00
+2026-10-07,Sorghum,Kg,,,farmgate,Kirambo,BURERA,650.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434424+00:00
+2026-10-07,Sorghum,Kg,,,farmgate,Kibuye,KARONGI,680.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434472+00:00
+2026-10-07,Sorghum flour,Kg,,,farmgate,Nyagahinga,BURERA,1000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434405+00:00
+2026-10-07,Sorghum flour,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434554+00:00
+2026-10-07,Sorghum flour,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435412+00:00
+2026-10-07,Soya-Bean,Kg,,,farmgate,Kirambo,BURERA,1050.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435367+00:00
+2026-10-07,Soya-Bean,Kg,,,farmgate,Nyamata,BUGESERA,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435636+00:00
+2026-10-07,Soya-Bean,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434515+00:00
+2026-10-07,Sugar,Kg,,,farmgate,Nyagahinga,BURERA,1500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434327+00:00
+2026-10-07,Sugar,Kg,,,farmgate,Kirambo,BURERA,1550.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434031+00:00
+2026-10-07,Sugar,Kg,,,farmgate,Kibuye,KARONGI,1340.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434573+00:00
+2026-10-07,Sugar,Kg,,,farmgate,Bushenge,NYAMASHEKE,1480.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435566+00:00
+2026-10-07,Sweet pepper,Kg,,,farmgate,Kibuye,KARONGI,2100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433981+00:00
+2026-10-07,Sweet pepper,Kg,,,farmgate,Kirambo,BURERA,850.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435425+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Nyagahinga,BURERA,400.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434840+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.432896+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Bushenge,NYAMASHEKE,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.436091+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433274+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Nyamata,BUGESERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435666+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Muhondo,GAKENKE,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433598+00:00
+2026-10-07,Sweet-Potatoes,Kg,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434082+00:00
+2026-10-07,Tomatos,Kg,,,farmgate,Nyamata,BUGESERA,550.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435736+00:00
+2026-10-07,Tomatos,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433991+00:00
+2026-10-07,Tomatos,Kg,,,farmgate,Mulindi,GASABO,650.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433231+00:00
+2026-10-07,Tomatos,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434199+00:00
+2026-10-07,Uree,Kg,,,farmgate,Kirambo,BURERA,970.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435532+00:00
+2026-10-07,Wheat,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.433160+00:00
+2026-10-07,Wheat,Kg,,,farmgate,Nyamata,BUGESERA,1000.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.435651+00:00
+2026-10-07,Wheat,Kg,,,farmgate,Kirambo,BURERA,650.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434631+00:00
+2026-10-07,Wheat,Kg,,,farmgate,Nyagahinga,BURERA,800.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434210+00:00
+2026-10-07,Wheat,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434491+00:00
+2026-10-07,White onion,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434022+00:00
+2026-10-07,Yams,Piece,,,farmgate,Kirambo,BURERA,300.00,RWF,Esoko Rwanda,2026-10-08T06:08:05.434092+00:00
+2026-10-06,Amaranth,Kg,,,farmgate,Birambo,KARONGI,483.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109545+00:00
+2026-10-06,Avocado,Kg,,,farmgate,Ruhango,RUHANGO,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109850+00:00
+2026-10-06,Avocado,Kg,,,farmgate,Mulindi,GASABO,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110926+00:00
+2026-10-06,Avocado,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111778+00:00
+2026-10-06,Avocado,Kg,,,farmgate,Birambo,KARONGI,623.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109569+00:00
+2026-10-06,Banan-fruit,Kg,,,farmgate,Ruhango,RUHANGO,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110702+00:00
+2026-10-06,Banan-fruit,Kg,,,farmgate,Birambo,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109496+00:00
+2026-10-06,Banana,Kg,,,farmgate,Mulindi,GASABO,400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111260+00:00
+2026-10-06,Banana,Kg,,,farmgate,Gasarenda,NYAMAGABE,400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110419+00:00
+2026-10-06,Banana,Kg,,,farmgate,Birambo,KARONGI,467.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110052+00:00
+2026-10-06,Banana,Kg,,,farmgate,Nyakarambi,KIREHE,250.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112393+00:00
+2026-10-06,Banana,Kg,,,farmgate,Kibuye,KARONGI,470.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110796+00:00
+2026-10-06,Banana,Kg,,,farmgate,Mubyangabo,MUSANZE,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111871+00:00
+2026-10-06,Bean - Mushingiriro,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112372+00:00
+2026-10-06,Bean - Mushingiriro,Kg,,,farmgate,Birambo,KARONGI,1393.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109358+00:00
+2026-10-06,Bean - Mushingiriro,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112277+00:00
+2026-10-06,Bean - Mushingiriro,Kg,,,farmgate,Gasarenda,NYAMAGABE,1400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110447+00:00
+2026-10-06,Bean Colta,Kg,,,farmgate,Mulindi,GASABO,1400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111121+00:00
+2026-10-06,Bean Ibinyarwanda,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111135+00:00
+2026-10-06,Bean Ibinyarwanda,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112300+00:00
+2026-10-06,Bean Ibinyarwanda,Kg,,,farmgate,Gasarenda,NYAMAGABE,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110484+00:00
+2026-10-06,Bean Ibinyarwanda,Kg,,,farmgate,Birambo,KARONGI,1393.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109373+00:00
+2026-10-06,Bean Kiryumukwe,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111148+00:00
+2026-10-06,Bean Shyushya,Kg,,,farmgate,Gasarenda,NYAMAGABE,1400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110462+00:00
+2026-10-06,Bean Shyushya,Kg,,,farmgate,Nyakarambi,KIREHE,1400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112382+00:00
+2026-10-06,Bean Shyushya,Kg,,,farmgate,Mulindi,GASABO,1200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111176+00:00
+2026-10-06,Bean Shyushya,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112312+00:00
+2026-10-06,Bean Shyushya,Kg,,,farmgate,Birambo,KARONGI,1393.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109387+00:00
+2026-10-06,Beans/Mutiki,Kg,,,farmgate,Birambo,KARONGI,1393.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109404+00:00
+2026-10-06,Beans/Mutiki,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111162+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Mulindi,GASABO,6500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111372+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Birambo,KARONGI,5533.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109328+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Nyakarambi,KIREHE,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112578+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Gasarenda,NYAMAGABE,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110525+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Kibuye,KARONGI,7000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111477+00:00
+2026-10-06,Beef/ imvange,Kg,,,farmgate,Ruhango,RUHANGO,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109863+00:00
+2026-10-06,Beef/Iroti,Kg,,,farmgate,Birambo,KARONGI,6500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109343+00:00
+2026-10-06,Beef/Iroti,Kg,,,farmgate,Gasarenda,NYAMAGABE,7000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110600+00:00
+2026-10-06,Beef/Iroti,Kg,,,farmgate,Nyakarambi,KIREHE,7000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112623+00:00
+2026-10-06,Beef/Iroti,Kg,,,farmgate,Kibuye,KARONGI,8000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111516+00:00
+2026-10-06,Betterave,Kg,,,farmgate,Birambo,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109479+00:00
+2026-10-06,Cabbage,Kg,,,farmgate,Kibuye,KARONGI,200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111636+00:00
+2026-10-06,Cabbage,Kg,,,farmgate,Birambo,KARONGI,193.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110114+00:00
+2026-10-06,Cabbage,Kg,,,farmgate,Mubyangabo,MUSANZE,100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111970+00:00
+2026-10-06,Carrot,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112412+00:00
+2026-10-06,Carrot,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111682+00:00
+2026-10-06,Carrot,Kg,,,farmgate,Mulindi,GASABO,850.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111411+00:00
+2026-10-06,Carrot,Kg,,,farmgate,Birambo,KARONGI,767.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109781+00:00
+2026-10-06,Carrot,Kg,,,farmgate,Gasarenda,NYAMAGABE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110505+00:00
+2026-10-06,Cassava,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111278+00:00
+2026-10-06,Cassava,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110786+00:00
+2026-10-06,Cassava,Kg,,,farmgate,Birambo,KARONGI,417.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109222+00:00
+2026-10-06,Cassava,Kg,,,farmgate,Gasarenda,NYAMAGABE,300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110579+00:00
+2026-10-06,Cassava,Kg,,,farmgate,Mubyangabo,MUSANZE,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111858+00:00
+2026-10-06,Cassava leaves,Kg,,,farmgate,Birambo,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109461+00:00
+2026-10-06,Cassava leaves,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111612+00:00
+2026-10-06,Cassava-flour,Kg,,,farmgate,Birambo,KARONGI,627.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110071+00:00
+2026-10-06,Cassava-flour,Kg,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112598+00:00
+2026-10-06,Cassava-flour,Kg,,,farmgate,Mubyangabo,MUSANZE,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111904+00:00
+2026-10-06,Cassava-flour,Kg,,,farmgate,Kibuye,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112059+00:00
+2026-10-06,Celery,Kg,,,farmgate,Ruhango,RUHANGO,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109819+00:00
+2026-10-06,Charcoal,Sack,,,farmgate,Kibuye,KARONGI,11000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110766+00:00
+2026-10-06,Chilli,Kg,,,farmgate,Birambo,KARONGI,3233.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109702+00:00
+2026-10-06,Courgette,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110755+00:00
+2026-10-06,Courgette,Kg,,,farmgate,Ruhango,RUHANGO,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109830+00:00
+2026-10-06,Egg - irinyaRWANDA,Piece,,,farmgate,Gasarenda,NYAMAGABE,200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110555+00:00
+2026-10-06,Egg - irinyaRWANDA,Piece,,,farmgate,Nyakarambi,KIREHE,150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109109+00:00
+2026-10-06,Egg - irinyaRWANDA,Piece,,,farmgate,Birambo,KARONGI,190.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109254+00:00
+2026-10-06,Egg - irinyaRWANDA,Piece,,,farmgate,Mulindi,GASABO,170.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111229+00:00
+2026-10-06,Egg - irinyaRWANDA,Piece,,,farmgate,Kibuye,KARONGI,210.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112044+00:00
+2026-10-06,Egg- Pondese,Piece,,,farmgate,Kibuye,KARONGI,160.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112030+00:00
+2026-10-06,Egg- Pondese,Piece,,,farmgate,Gasarenda,NYAMAGABE,180.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110565+00:00
+2026-10-06,Egg- Pondese,Piece,,,farmgate,Nyakarambi,KIREHE,150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109072+00:00
+2026-10-06,Egg- Pondese,Piece,,,farmgate,Mulindi,GASABO,120.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111244+00:00
+2026-10-06,Exotic Chicken - Inzungu - z' Inyama (below 2 weeks),Piece,,,farmgate,Mulindi,GASABO,4500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111357+00:00
+2026-10-06,Fish - Indagara- umunyu,Kg,,,farmgate,Kibuye,KARONGI,4000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111569+00:00
+2026-10-06,Fish - Tilapia,Kg,,,farmgate,Gasarenda,NYAMAGABE,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110515+00:00
+2026-10-06,Fish - Tilapia,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111213+00:00
+2026-10-06,Fish - Tilapia,Kg,,,farmgate,Nyakarambi,KIREHE,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112569+00:00
+2026-10-06,Fish - Tilapia,Kg,,,farmgate,Mubyangabo,MUSANZE,5000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110724+00:00
+2026-10-06,Fish - Tilapia,Kg,,,farmgate,Kibuye,KARONGI,5000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111534+00:00
+2026-10-06,Fish - Tomson,Kg,,,farmgate,Mubyangabo,MUSANZE,4500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110734+00:00
+2026-10-06,Fish - isambaza,Kg,,,farmgate,Kibuye,KARONGI,3000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111553+00:00
+2026-10-06,Fresh bean,Kg,,,farmgate,Mubyangabo,MUSANZE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112700+00:00
+2026-10-06,Fresh peas,Kg,,,farmgate,Mubyangabo,MUSANZE,3000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112720+00:00
+2026-10-06,Garlic,Kg,,,farmgate,Birambo,KARONGI,3533.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109648+00:00
+2026-10-06,Green bean,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112403+00:00
+2026-10-06,Green bean,Kg,,,farmgate,Ruhango,RUHANGO,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110315+00:00
+2026-10-06,Green bean,Kg,,,farmgate,Kibuye,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111591+00:00
+2026-10-06,Groundnut,Kg,,,farmgate,Kibuye,KARONGI,2100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112225+00:00
+2026-10-06,Groundnut,Kg,,,farmgate,Birambo,KARONGI,2200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109970+00:00
+2026-10-06,Honey,Kg,,,farmgate,Ruhango,RUHANGO,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110162+00:00
+2026-10-06,Honey,Kg,,,farmgate,Gasarenda,NYAMAGABE,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110650+00:00
+2026-10-06,Honey,Kg,,,farmgate,Birambo,KARONGI,5167.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109521+00:00
+2026-10-06,IRABONEYE,Kg,,,farmgate,Ruhango,RUHANGO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110278+00:00
+2026-10-06,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111108+00:00
+2026-10-06,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Mubyangabo,MUSANZE,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112001+00:00
+2026-10-06,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110854+00:00
+2026-10-06,Irish- Potato- Kirundo,Kg,,,farmgate,Mulindi,GASABO,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111076+00:00
+2026-10-06,Irish- Potato- Kirundo,Kg,,,farmgate,Birambo,KARONGI,713.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109178+00:00
+2026-10-06,Irish- Potato- Kuruza,Kg,,,farmgate,Kibuye,KARONGI,750.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110806+00:00
+2026-10-06,Irish- Potato- Kuruza,Kg,,,farmgate,Gasarenda,NYAMAGABE,780.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110432+00:00
+2026-10-06,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110843+00:00
+2026-10-06,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Mulindi,GASABO,1200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111093+00:00
+2026-10-06,Irish-potato,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110820+00:00
+2026-10-06,Lemon,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111750+00:00
+2026-10-06,Lemon,Kg,,,farmgate,Birambo,KARONGI,1267.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109683+00:00
+2026-10-06,Maize,Kg,,,farmgate,Gasarenda,NYAMAGABE,550.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110360+00:00
+2026-10-06,Maize,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110943+00:00
+2026-10-06,Maize,Kg,,,farmgate,Mubyangabo,MUSANZE,550.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111941+00:00
+2026-10-06,Maize,Kg,,,farmgate,Kibuye,KARONGI,560.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112196+00:00
+2026-10-06,Maize,Kg,,,farmgate,Birambo,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110098+00:00
+2026-10-06,Maize Flour,Kg,,,farmgate,Gasarenda,NYAMAGABE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110535+00:00
+2026-10-06,Maize Flour,Kg,,,farmgate,Birambo,KARONGI,1167.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109299+00:00
+2026-10-06,Maize Flour,Kg,,,farmgate,Nyakarambi,KIREHE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112588+00:00
+2026-10-06,Maize Flour,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112074+00:00
+2026-10-06,Maize Flour,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111330+00:00
+2026-10-06,Maize-flour,Kg,,,farmgate,Birambo,KARONGI,717.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109632+00:00
+2026-10-06,Mandarin,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111736+00:00
+2026-10-06,Mandarin,Kg,,,farmgate,Nyakarambi,KIREHE,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112431+00:00
+2026-10-06,Mandarin,Kg,,,farmgate,Birambo,KARONGI,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109764+00:00
+2026-10-06,Mango,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111723+00:00
+2026-10-06,Meet - Inkoko - Pondezi,Kg,,,farmgate,Gasarenda,NYAMAGABE,5000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110620+00:00
+2026-10-06,Meet - Inkoko - Pondezi,Kg,,,farmgate,Kibuye,KARONGI,5500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111497+00:00
+2026-10-06,Meet - inkoko - rwanda,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111343+00:00
+2026-10-06,Milk-fresh,Litre,,,farmgate,Mubyangabo,MUSANZE,300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111831+00:00
+2026-10-06,Milk-fresh,Litre,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112614+00:00
+2026-10-06,Milk-fresh,Litre,,,farmgate,Birambo,KARONGI,400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110021+00:00
+2026-10-06,Milk-fresh,Litre,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111314+00:00
+2026-10-06,Oil - ubuto,Bottle,,,farmgate,Birambo,KARONGI,3000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109164+00:00
+2026-10-06,Oil - ubuto,Bottle,,,farmgate,Nyakarambi,KIREHE,2800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112557+00:00
+2026-10-06,Oil - ubuto,Bottle,,,farmgate,Ruhango,RUHANGO,2600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110225+00:00
+2026-10-06,Oil - ubuto,Bottle,,,farmgate,Kibuye,KARONGI,2800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112110+00:00
+2026-10-06,Onion-Red,Kg,,,farmgate,Ruhango,RUHANGO,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110714+00:00
+2026-10-06,Onion-Red,Kg,,,farmgate,Birambo,KARONGI,783.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109804+00:00
+2026-10-06,Onion-Red,Kg,,,farmgate,Gasarenda,NYAMAGABE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110496+00:00
+2026-10-06,Onion-Red,Kg,,,farmgate,Mulindi,GASABO,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111191+00:00
+2026-10-06,Onion-Red,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111695+00:00
+2026-10-06,Orange,Kg,,,farmgate,Birambo,KARONGI,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109747+00:00
+2026-10-06,Orange,Kg,,,farmgate,Ruhango,RUHANGO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110267+00:00
+2026-10-06,Orange,Kg,,,farmgate,Nyakarambi,KIREHE,700.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112333+00:00
+2026-10-06,Orange,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111765+00:00
+2026-10-06,Palm-oil,Litre,,,farmgate,Birambo,KARONGI,2667.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109147+00:00
+2026-10-06,Palm-oil,Litre,,,farmgate,Ruhango,RUHANGO,3000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110182+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Mulindi,GASABO,2400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110915+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Ruhango,RUHANGO,2600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110236+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Birambo,KARONGI,1767.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109607+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Kibuye,KARONGI,1600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111805+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Mubyangabo,MUSANZE,1600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111956+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Gasarenda,NYAMAGABE,1800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110331+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Nyakarambi,KIREHE,2600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112353+00:00
+2026-10-06,Passion-fruit,Kg,,,farmgate,Kimironko,GASABO,2633.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110905+00:00
+2026-10-06,Peas,Kg,,,farmgate,Birambo,KARONGI,2767.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110137+00:00
+2026-10-06,Peas,Kg,,,farmgate,Ruhango,RUHANGO,2600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110247+00:00
+2026-10-06,Pineapple,Kg,,,farmgate,Birambo,KARONGI,300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109718+00:00
+2026-10-06,Plum,Kg,,,farmgate,Gasarenda,NYAMAGABE,1800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110348+00:00
+2026-10-06,Plum,Kg,,,farmgate,Birambo,KARONGI,1767.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109590+00:00
+2026-10-06,Plum,Kg,,,farmgate,Mulindi,GASABO,1600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110962+00:00
+2026-10-06,Plum,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112363+00:00
+2026-10-06,Plum,Kg,,,farmgate,Kibuye,KARONGI,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111791+00:00
+2026-10-06,Porc meat,Kg,,,farmgate,Gasarenda,NYAMAGABE,5000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110610+00:00
+2026-10-06,Rabbit,Kg,,,farmgate,Birambo,KARONGI,3500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109314+00:00
+2026-10-06,Rice - Rw - Gikonko,Kg,,,farmgate,Kimironko,GASABO,1150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110744+00:00
+2026-10-06,Rice - Rw - Nyiraburyohe,Kg,,,farmgate,Kibuye,KARONGI,1150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112139+00:00
+2026-10-06,Rice - TZ - No 2,Kg,,,farmgate,Nyakarambi,KIREHE,1150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112686+00:00
+2026-10-06,Rice - TZ - No 2,Kg,,,farmgate,Gasarenda,NYAMAGABE,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110683+00:00
+2026-10-06,Rice - TZ - No 2,Kg,,,farmgate,Mulindi,GASABO,1500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111454+00:00
+2026-10-06,Rice - TZ - No 2,Kg,,,farmgate,Kibuye,KARONGI,1360.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112182+00:00
+2026-10-06,Rice - TZ - No 2,Kg,,,farmgate,Birambo,KARONGI,1307.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109238+00:00
+2026-10-06,Rice -Rw - Kigori,Kg,,,farmgate,Kimironko,GASABO,1050.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110865+00:00
+2026-10-06,Rice -Rw - Kigori,Kg,,,farmgate,Nyakarambi,KIREHE,950.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112672+00:00
+2026-10-06,Rice -Rw - Kigori,Kg,,,farmgate,Birambo,KARONGI,1187.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109278+00:00
+2026-10-06,Rice -Rw - Kigori,Kg,,,farmgate,Gasarenda,NYAMAGABE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110545+00:00
+2026-10-06,Rice Pakistan,Kg,,,farmgate,Kibuye,KARONGI,1140.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112125+00:00
+2026-10-06,Rice Pakistan,Kg,,,farmgate,Birambo,KARONGI,1330.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109129+00:00
+2026-10-06,Rice Pakistan,Kg,,,farmgate,Gasarenda,NYAMAGABE,1300.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110662+00:00
+2026-10-06,Rice-Rw,Kg,,,farmgate,Kibuye,KARONGI,1050.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112153+00:00
+2026-10-06,Rice-Tz,Kg,,,farmgate,Mulindi,GASABO,1800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111440+00:00
+2026-10-06,Rice-Tz,Kg,,,farmgate,Kibuye,KARONGI,1750.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112167+00:00
+2026-10-06,Rice-Tz,Kg,,,farmgate,Birambo,KARONGI,1833.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109947+00:00
+2026-10-06,Sorghum,Kg,,,farmgate,Birambo,KARONGI,907.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110203+00:00
+2026-10-06,Sorghum,Kg,,,farmgate,Kibuye,KARONGI,680.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112211+00:00
+2026-10-06,Sorghum,Kg,,,farmgate,Nyakarambi,KIREHE,750.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112322+00:00
+2026-10-06,Sorghum,Kg,,,farmgate,Mubyangabo,MUSANZE,750.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111984+00:00
+2026-10-06,Sorghum flour,Kg,,,farmgate,Birambo,KARONGI,1017.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109428+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Nyakarambi,KIREHE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112654+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Birambo,KARONGI,1267.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109985+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Gasarenda,NYAMAGABE,1200.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110640+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112255+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Ruhango,RUHANGO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110289+00:00
+2026-10-06,Soya-Bean,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111426+00:00
+2026-10-06,Spinach,Kg,,,farmgate,Ruhango,RUHANGO,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109840+00:00
+2026-10-06,Sugar,Kg,,,farmgate,Kibuye,KARONGI,1340.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112090+00:00
+2026-10-06,Sugar,Kg,,,farmgate,Nyakarambi,KIREHE,1150.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112634+00:00
+2026-10-06,Sweet pepper,Kg,,,farmgate,Nyakarambi,KIREHE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112442+00:00
+2026-10-06,Sweet pepper,Kg,,,farmgate,Kibuye,KARONGI,2000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111653+00:00
+2026-10-06,Sweet pepper,Kg,,,farmgate,Birambo,KARONGI,1267.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109658+00:00
+2026-10-06,Sweet-Potatoes,Kg,,,farmgate,Gasarenda,NYAMAGABE,400.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110409+00:00
+2026-10-06,Sweet-Potatoes,Kg,,,farmgate,Mubyangabo,MUSANZE,450.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111918+00:00
+2026-10-06,Sweet-Potatoes,Kg,,,farmgate,Birambo,KARONGI,417.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109207+00:00
+2026-10-06,Sweet-Potatoes,Kg,,,farmgate,Kibuye,KARONGI,500.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110776+00:00
+2026-10-06,Sweet-Potatoes,Kg,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110952+00:00
+2026-10-06,Taro,Kg,,,farmgate,Birambo,KARONGI,417.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109193+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Mubyangabo,MUSANZE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111818+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Birambo,KARONGI,667.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110006+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Kibuye,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111668+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112422+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Mulindi,GASABO,650.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111394+00:00
+2026-10-06,Tomatos,Kg,,,farmgate,Gasarenda,NYAMAGABE,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110630+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111297+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Birambo,KARONGI,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110037+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Mubyangabo,MUSANZE,750.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111845+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Ruhango,RUHANGO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110257+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Gasarenda,NYAMAGABE,800.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110589+00:00
+2026-10-06,Wheat,Kg,,,farmgate,Kibuye,KARONGI,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112240+00:00
+2026-10-06,Wheat-Flour,Kg,,,farmgate,Birambo,KARONGI,1067.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.109793+00:00
+2026-10-06,White onion,Kg,,,farmgate,Mubyangabo,MUSANZE,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112736+00:00
+2026-10-06,White onion,Kg,,,farmgate,Kibuye,KARONGI,1100.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.111709+00:00
+2026-10-06,White onion,Kg,,,farmgate,Ruhango,RUHANGO,1000.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.110300+00:00
+2026-10-06,Yams,Piece,,,farmgate,Nyakarambi,KIREHE,600.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112342+00:00
+2026-10-06,Yams,Piece,,,farmgate,Mubyangabo,MUSANZE,900.00,RWF,Esoko Rwanda,2026-10-07T06:08:44.112015+00:00
+2026-10-05,Avocado,Kg,,,farmgate,Mulindi,GASABO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940643+00:00
+2026-10-05,Avocado,Kg,,,farmgate,Bugarama,RUSIZI,400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940568+00:00
+2026-10-05,Banana,Kg,,,farmgate,Kibungo,NGOMA,350.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939703+00:00
+2026-10-05,Banana,Kg,,,farmgate,Mulindi,GASABO,400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940813+00:00
+2026-10-05,Bean - Injyamane,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940115+00:00
+2026-10-05,Bean - Injyamane,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939943+00:00
+2026-10-05,Bean - Injyamane,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939776+00:00
+2026-10-05,Bean - Mushingiriro,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939950+00:00
+2026-10-05,Bean - Mushingiriro,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939783+00:00
+2026-10-05,Bean - Mushingiriro,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940127+00:00
+2026-10-05,Bean - Mushingiriro,Kg,,,farmgate,Bugarama,RUSIZI,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940448+00:00
+2026-10-05,Bean Colta,Kg,,,farmgate,Mulindi,GASABO,1400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940713+00:00
+2026-10-05,Bean Ibinyarwanda,Kg,,,farmgate,Bugarama,RUSIZI,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940455+00:00
+2026-10-05,Bean Ibinyarwanda,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939970+00:00
+2026-10-05,Bean Ibinyarwanda,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939798+00:00
+2026-10-05,Bean Ibinyarwanda,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940149+00:00
+2026-10-05,Bean Ibinyarwanda,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940721+00:00
+2026-10-05,Bean Kiryumukwe,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940138+00:00
+2026-10-05,Bean Kiryumukwe,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939790+00:00
+2026-10-05,Bean Kiryumukwe,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940728+00:00
+2026-10-05,Bean Kiryumukwe,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939958+00:00
+2026-10-05,Bean Shyushya,Kg,,,farmgate,Kibungo,NGOMA,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939652+00:00
+2026-10-05,Bean Shyushya,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939978+00:00
+2026-10-05,Bean Shyushya,Kg,,,farmgate,Mulindi,GASABO,1200.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940751+00:00
+2026-10-05,Bean Shyushya,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939805+00:00
+2026-10-05,Bean Shyushya,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940160+00:00
+2026-10-05,Beans/Mutiki,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940739+00:00
+2026-10-05,Beans/Mutiki,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940171+00:00
+2026-10-05,Beans/Mutiki,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939986+00:00
+2026-10-05,Beans/Mutiki,Kg,,,farmgate,Bugarama,RUSIZI,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940466+00:00
+2026-10-05,Beans/Mutiki,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939813+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Congonil,RUTSIRO,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940207+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Congonil,RUTSIRO,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940008+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Mulindi,GASABO,6500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940932+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Kibungo,NGOMA,5500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939736+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Congonil,RUTSIRO,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939836+00:00
+2026-10-05,Beef/ imvange,Kg,,,farmgate,Bugarama,RUSIZI,7000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940424+00:00
+2026-10-05,Beef/Iroti,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940288+00:00
+2026-10-05,Beef/Iroti,Kg,,,farmgate,Kibungo,NGOMA,6500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939728+00:00
+2026-10-05,Beef/Iroti,Kg,,,farmgate,Bugarama,RUSIZI,8000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940431+00:00
+2026-10-05,Beef/Iroti,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940055+00:00
+2026-10-05,Beef/Iroti,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939912+00:00
+2026-10-05,Carrot,Kg,,,farmgate,Mulindi,GASABO,850.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940961+00:00
+2026-10-05,Carrot,Kg,,,farmgate,Bugarama,RUSIZI,1200.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.941051+00:00
+2026-10-05,Cassava,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940826+00:00
+2026-10-05,Celery,Kg,,,farmgate,Bugarama,RUSIZI,500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940541+00:00
+2026-10-05,Chilli,Kg,,,farmgate,Bugarama,RUSIZI,2800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940613+00:00
+2026-10-05,Cucumber,Kg,,,farmgate,Bugarama,RUSIZI,800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940528+00:00
+2026-10-05,Egg - irinyaRWANDA,Piece,,,farmgate,Mulindi,GASABO,170.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940787+00:00
+2026-10-05,Egg- Pondese,Piece,,,farmgate,Kibungo,NGOMA,150.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939695+00:00
+2026-10-05,Egg- Pondese,Piece,,,farmgate,Mulindi,GASABO,120.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940800+00:00
+2026-10-05,Egg- Pondese,Piece,,,farmgate,Bugarama,RUSIZI,180.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940362+00:00
+2026-10-05,Exotic Chicken - Inzungu - z' Inyama (below 2 weeks),Piece,,,farmgate,Mulindi,GASABO,4500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940912+00:00
+2026-10-05,Fish - Indagara- umunyu,Kg,,,farmgate,Bugarama,RUSIZI,6500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940439+00:00
+2026-10-05,Fish - Tilapia,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940775+00:00
+2026-10-05,Fish - Tilapia,Kg,,,farmgate,Bugarama,RUSIZI,5000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940313+00:00
+2026-10-05,Fish - Tomson,Kg,,,farmgate,Bugarama,RUSIZI,5000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940325+00:00
+2026-10-05,Gaz,Kg,,,farmgate,Kibungo,NGOMA,1600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939674+00:00
+2026-10-05,IRABONEYE,Kg,,,farmgate,Bugarama,RUSIZI,900.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940387+00:00
+2026-10-05,Irish potato - Kinigi Grade 2,Kg,,,farmgate,Mulindi,GASABO,900.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940706+00:00
+2026-10-05,Irish potato - Kuruseke,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940259+00:00
+2026-10-05,Irish potato - Kuruseke,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940039+00:00
+2026-10-05,Irish potato - Kuruseke,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939868+00:00
+2026-10-05,Irish- Potato - Peko,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940047+00:00
+2026-10-05,Irish- Potato - Peko,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939904+00:00
+2026-10-05,Irish- Potato - Peko,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940275+00:00
+2026-10-05,Irish- Potato- Kirundo,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939852+00:00
+2026-10-05,Irish- Potato- Kirundo,Kg,,,farmgate,Mulindi,GASABO,800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940690+00:00
+2026-10-05,Irish- Potato- Kirundo,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940024+00:00
+2026-10-05,Irish- Potato- Kirundo,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940224+00:00
+2026-10-05,Irish- Potato- Kuruza,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939860+00:00
+2026-10-05,Irish- Potato- Kuruza,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940239+00:00
+2026-10-05,Irish- Potato- Kuruza,Kg,,,farmgate,Congonil,RUTSIRO,700.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940032+00:00
+2026-10-05,Irish-Potato - Kinigi Grade 1,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940698+00:00
+2026-10-05,Maize,Kg,,,farmgate,Congonil,RUTSIRO,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940016+00:00
+2026-10-05,Maize,Kg,,,farmgate,Congonil,RUTSIRO,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939844+00:00
+2026-10-05,Maize,Kg,,,farmgate,Congonil,RUTSIRO,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940215+00:00
+2026-10-05,Maize,Kg,,,farmgate,Mulindi,GASABO,500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940652+00:00
+2026-10-05,Maize Flour,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940066+00:00
+2026-10-05,Maize Flour,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939920+00:00
+2026-10-05,Maize Flour,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940300+00:00
+2026-10-05,Maize Flour,Kg,,,farmgate,Bugarama,RUSIZI,1200.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940400+00:00
+2026-10-05,Maize Flour,Kg,,,farmgate,Mulindi,GASABO,1000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940864+00:00
+2026-10-05,Mandarin,Kg,,,farmgate,Kibungo,NGOMA,900.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939760+00:00
+2026-10-05,Meet - Inkoko - Pondezi,Kg,,,farmgate,Bugarama,RUSIZI,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940413+00:00
+2026-10-05,Meet - inkoko - rwanda,Kg,,,farmgate,Mulindi,GASABO,6000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940899+00:00
+2026-10-05,Milk-fresh,Litre,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940851+00:00
+2026-10-05,Milk-fresh,Litre,,,farmgate,Kibungo,NGOMA,450.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939720+00:00
+2026-10-05,Oil - ubuto,Bottle,,,farmgate,Mulindi,GASABO,2800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.941024+00:00
+2026-10-05,Onion-Red,Kg,,,farmgate,Bugarama,RUSIZI,933.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.941066+00:00
+2026-10-05,Onion-Red,Kg,,,farmgate,Mulindi,GASABO,900.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940763+00:00
+2026-10-05,Orange,Kg,,,farmgate,Kibungo,NGOMA,550.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939768+00:00
+2026-10-05,Orange,Kg,,,farmgate,Bugarama,RUSIZI,1000.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940628+00:00
+2026-10-05,Papaya,Kg,,,farmgate,Bugarama,RUSIZI,567.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940580+00:00
+2026-10-05,Passion-fruit,Kg,,,farmgate,Mulindi,GASABO,2400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940636+00:00
+2026-10-05,Pineapple,Kg,,,farmgate,Bugarama,RUSIZI,400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940621+00:00
+2026-10-05,Plum,Kg,,,farmgate,Bugarama,RUSIZI,1600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940592+00:00
+2026-10-05,Plum,Kg,,,farmgate,Mulindi,GASABO,1600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940676+00:00
+2026-10-05,Plum,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940102+00:00
+2026-10-05,Plum,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939935+00:00
+2026-10-05,Plum,Kg,,,farmgate,Kibungo,NGOMA,900.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939752+00:00
+2026-10-05,Rice - TZ - No 2,Kg,,,farmgate,Bugarama,RUSIZI,1320.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940350+00:00
+2026-10-05,Rice - TZ - No 2,Kg,,,farmgate,Mulindi,GASABO,1500.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.941008+00:00
+2026-10-05,Rice -Rw - Kigori,Kg,,,farmgate,Bugarama,RUSIZI,1200.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940374+00:00
+2026-10-05,Rice -Rw - Kigori,Kg,,,farmgate,Kibungo,NGOMA,850.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939712+00:00
+2026-10-05,Rice Pakistan,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940195+00:00
+2026-10-05,Rice Pakistan,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939828+00:00
+2026-10-05,Rice Pakistan,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940001+00:00
+2026-10-05,Rice Thailand,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940184+00:00
+2026-10-05,Rice Thailand,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939993+00:00
+2026-10-05,Rice Thailand,Kg,,,farmgate,Congonil,RUTSIRO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939821+00:00
+2026-10-05,Rice-Tz,Kg,,,farmgate,Mulindi,GASABO,1800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940987+00:00
+2026-10-05,Rice-Tz,Kg,,,farmgate,Kibungo,NGOMA,1550.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939686+00:00
+2026-10-05,Sorghum flour,Kg,,,farmgate,Bugarama,RUSIZI,800.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940516+00:00
+2026-10-05,Soya-Bean,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940973+00:00
+2026-10-05,Soya-Bean,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940088+00:00
+2026-10-05,Soya-Bean,Kg,,,farmgate,Congonil,RUTSIRO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939928+00:00
+2026-10-05,Sugar,Kg,,,farmgate,Mulindi,GASABO,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.941037+00:00
+2026-10-05,Sweet pepper,Kg,,,farmgate,Bugarama,RUSIZI,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940605+00:00
+2026-10-05,Sweet-Potatoes,Kg,,,farmgate,Mulindi,GASABO,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940665+00:00
+2026-10-05,Taro,Kg,,,farmgate,Bugarama,RUSIZI,400.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940338+00:00
+2026-10-05,Tomatos,Kg,,,farmgate,Kibungo,NGOMA,600.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.939744+00:00
+2026-10-05,Tomatos,Kg,,,farmgate,Mulindi,GASABO,650.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940949+00:00
+2026-10-05,Wheat,Kg,,,farmgate,Mulindi,GASABO,1100.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940839+00:00
+2026-10-05,White onion,Kg,,,farmgate,Bugarama,RUSIZI,1300.00,RWF,Esoko Rwanda,2026-10-06T06:08:04.940554+00:00

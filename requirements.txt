@@ -1,0 +1,23 @@
+# Data Manipulation & Excel Parsing
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.2
+
+# Machine Learning & Modeling
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+joblib>=1.3.0
+scipy>=1.12.0
+
+# Data Visualization & Plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Remote Data Ingestion & Earth Observation
+requests>=2.31.0
+earthengine-api>=0.1.390
+
+# Interactive Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.29.0
+notebook>=7.0.0
