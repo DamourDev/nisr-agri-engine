@@ -4,7 +4,7 @@ An end-to-end data fusion and machine learning pipeline combining baseline Natio
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project addresses national agricultural productivity and food security challenges in Rwanda by constructing an integrated feature matrix and predictive models across **6 target districts** (`BURERA`, `GATSIBO`, `MUSANZE`, `HUYE`, `RUSIZI`, `GASABO`) and **6 priority crops** (`Irish Potato`, `Maize`, `Beans`, `Cassava`, `Rice`, `Amaranth`).
 
@@ -15,13 +15,16 @@ This project addresses national agricultural productivity and food security chal
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 NISR-Hackathon/
+├── .streamlit/
+│   └── config.toml                           # Streamlit Dark Theme & Dashboard Layout
 ├── .gitignore                                # Excludes venv, checkpoints, and caches
 ├── README.md                                 # Project Documentation & Executive Summary
 ├── requirements.txt                          # Python Package Dependencies
+├── app.py                                    # Phase 5: Interactive Streamlit Web Application
 ├── data/
 │   ├── sas_2025_crop_production.xlsx        # NISR Seasonal Agricultural Survey 2025
 │   ├── nisr_agri_household_survey_2024.xlsx  # NISR Agricultural Household Survey 2024
@@ -45,7 +48,7 @@ NISR-Hackathon/
 
 ---
 
-## 🔄 Pipeline Architecture & Phases
+## Pipeline Architecture & Phases
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -89,9 +92,17 @@ NISR-Hackathon/
    - Computes district-level **Climate Vulnerability Scores** and **Irrigation Priority Rankings**.
    - Exports serialized models to `./models/` and predictions to `data/df_master_phase4_predictions.csv`.
 
+4. **Phase 5 — Interactive Streamlit Dashboard & Policy Decision Support (`app.py`)**
+   - Built a comprehensive 5-tab web dashboard powered by Streamlit and Plotly.
+   - **Executive Overview:** Multi-district KPI cards and comparative yield vs. socioeconomic fragility scatter charts.
+   - **Interactive ML Yield Gap Predictor:** Live model inference simulator enabling users to dynamically adjust rainfall, fertilizer adoption, extension reach, and satellite NDVI to test real-time yield responses.
+   - **Climate Vulnerability Matrix:** District risk cards and multi-dimensional bubble matrix mapping moisture deficits against poverty headcount rates.
+   - **Policy Support (NST2 & PSTA 5):** Automated strategic action matrix and direct CSV data export portal.
+   - **Diagnostic Gallery:** Interactive viewer for all 11 generated high-resolution visualizations.
+
 ---
 
-## 📊 Key Results & Machine Learning Performance
+## Key Results & Machine Learning Performance
 
 ### 1. Yield Predictor Benchmark (LOOCV)
 
@@ -99,7 +110,7 @@ Because the dataset consists of 36 aggregated district-crop observations, Leave-
 
 | Model Pipeline | Cross-Validated $R^2$ | RMSE ($kg/ha$) | MAE ($kg/ha$) | Evaluation Rank |
 | :--- | :---: | :---: | :---: | :---: |
-| **Gradient Boosting Regressor** | **0.8116** | **1,920.43** | **1,222.41** | 🏆 **Champion** |
+| **Gradient Boosting Regressor** | **0.8116** | **1,920.43** | **1,222.41** | **Champion** |
 | **XGBoost Regressor (Tuned)** | 0.7965 | 1,995.43 | 1,458.92 | Runner-Up |
 | **Ridge Regression (Tuned, $\alpha=10.0$)** | 0.7307 | 2,295.84 | 1,740.82 | 3rd |
 | **Random Forest Regressor** | 0.7088 | 2,387.42 | 1,748.24 | 4th |
@@ -111,16 +122,16 @@ The composite index balances moisture shortage (40%), poverty headcount rate (30
 
 | Priority Rank | District | Vulnerability Score | Moisture Shortage Index | Irrigation % | Poverty Headcount % | Priority Classification |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| **#1** | **GATSIBO** | **0.5717** | 1.249 (916.8 mm deficit) | 44.7% | 18.4% | 🔴 **URGENT** |
-| **#2** | **MUSANZE** | **0.5379** | 0.650 | 8.3% | 21.0% | 🔴 **URGENT** |
-| **#3** | **GASABO** | **0.4587** | 0.793 | 28.6% | 11.1% | 🟡 **HIGH** |
-| **#4** | **RUSIZI** | **0.4090** | 0.006 | 50.0% | 44.2% | 🟡 **HIGH** |
-| **#5** | **BURERA** | **0.3880** | 0.056 | 0.0% | 21.8% | 🟢 **MODERATE** |
-| **#6** | **HUYE** | **0.3543** | 0.250 | 50.9% | 24.2% | 🟢 **MODERATE** |
+| **#1** | **GATSIBO** | **0.5717** | 1.249 (916.8 mm deficit) | 44.7% | 18.4% | **URGENT** |
+| **#2** | **MUSANZE** | **0.5379** | 0.650 | 8.3% | 21.0% | **URGENT** |
+| **#3** | **GASABO** | **0.4587** | 0.793 | 28.6% | 11.1% | **HIGH** |
+| **#4** | **RUSIZI** | **0.4090** | 0.006 | 50.0% | 44.2% | **HIGH** |
+| **#5** | **BURERA** | **0.3880** | 0.056 | 0.0% | 21.8% | **MODERATE** |
+| **#6** | **HUYE** | **0.3543** | 0.250 | 50.9% | 24.2% | **MODERATE** |
 
 ---
 
-## 🚀 Quickstart & Setup Guide
+## Quickstart & Setup Guide
 
 ### 1. Prerequisites
 Ensure Python 3.10+ is installed on your system.
@@ -164,8 +175,16 @@ jupyter notebook notebooks/02_weather_and_gee_pipelines.ipynb
 jupyter notebook notebooks/03_ml_yield_models.ipynb
 ```
 
+### 5. Launching the Interactive Web Dashboard
+Run the Streamlit application to start the interactive decision support portal:
+
+```bash
+streamlit run app.py
+```
+Open your browser at `http://localhost:8501` to access the dashboard.
+
 ---
 
-## 📜 License & Acknowledgments
+## License & Acknowledgments
 
 Developed for the **National Institute of Statistics of Rwanda (NISR) 2026 Big Data Hackathon** (Track 1: Agricultural Productivity). All survey datasets belong to NISR.
